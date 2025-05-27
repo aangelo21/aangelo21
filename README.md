@@ -2,7 +2,8 @@
 ## Web Development Student from the Canary Islands, Spain 🥘💃
 
 ## Work Experience 👨‍💼
-· Worked at Centros de Estudios Kuma and developed an App in Odoo using Python
+### (May-June 2025) Centro de Estudios Kuma
+Optimized both SEO and performance of their website. Also created an app in docker to manage courses.
 
 ## Programming Languages and Tools 💻
 
