@@ -37,6 +37,6 @@ Optimized both SEO and performance of their website. Also created an app in dock
 ## GitHub Stats📊
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aangelo21&show_icons=true&theme=tokyonight&hide_border=true" alt="Angelo's GitHub stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aangelo21&theme=material-palenight" alt="Angelo's GitHub streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aangelo21&show_icons=true&theme=tokyonight&hide_border=true" alt="Angelo's GitHub stats" heigth="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aangelo21&theme=tokyonight&hide_border=true" alt="Angelo's GitHub streak hegith="400" />
 </p>
