@@ -12,6 +12,12 @@
     - **Led the development** of an internal application to **manage employees and track course sales**, improving organization and monitoring of commercial activity.
 
 ## Projects
+- **Canary Weather**
+    - Weather web application designed to display real-time weather conditions and forecasts for the Canary Islands. The application retrieves meteorological data from an external weather API and presents it through a fast and responsive user interface. 
+    - **Technologies:** React, TailwindCSS, Vite, Leaflet, i18next, Node.js, Express, Sequelize, Socket.io, PostgreSQL, JWT, Swagger, Jest, Vitest
+    - [Visit the repo here](https://github.com/aangelo21/canary-weather)
+    - [Visit the live page here](https://canaryweather-frontend.onrender.com)
+
 ## Skills
 ## Education
 ## Contact information
