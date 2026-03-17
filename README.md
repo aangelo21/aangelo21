@@ -13,10 +13,30 @@
 
 ## Projects
 - **Canary Weather**
-    - Weather web application designed to display real-time weather conditions and forecasts for the Canary Islands. The application retrieves meteorological data from an external weather API and presents it through a fast and responsive user interface. 
-    - **Technologies:** React, TailwindCSS, Vite, Leaflet, i18next, Node.js, Express, Sequelize, Socket.io, PostgreSQL, JWT, Swagger, Jest, Vitest
-    - [Visit the repo here](https://github.com/aangelo21/canary-weather)
-    - [Visit the live page here](https://canaryweather-frontend.onrender.com)
+  - Weather web application designed to display real-time weather conditions and forecasts for the Canary Islands. The application retrieves meteorological data from an external weather API and presents it through a fast and responsive user interface.
+
+  - **Technologies**
+
+    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+    ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss)
+    ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+    ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+    ![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge)
+
+    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+    ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+    ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+    ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+    ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+    ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+    ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+
+  - [Visit the repo here](https://github.com/aangelo21/canary-weather)
+  - [Visit the live page here](https://canaryweather-frontend.onrender.com)
 
 ## Skills
 ## Education
