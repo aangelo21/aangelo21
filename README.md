@@ -68,3 +68,5 @@
 - **Higher VET in Web Application Development** at IES El Rincón (September 2024 - May 2026) | EQF Level 5
 
 ## Contact information
+- **email**: martinezglielmo@gmail.com
+- [**LinkedIn**](https://www.linkedin.com/in/michelangelo-mart%C3%ADnez-glielmo-85727a39a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMbiVXHhFSFWXJbWLvV9sAQ%3D%3D)
