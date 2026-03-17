@@ -65,7 +65,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Education
-- **Higher VET in Web Application Development** at IES El Rincón (September 2024 - May 2026) | EQF Level 5
+- **Higher VET in Web Application Development** at IES El Rincón | EQF Level 5 (September 2024 - May 2026)
 
 ## Contact information
 - **email**: martinezglielmo@gmail.com
